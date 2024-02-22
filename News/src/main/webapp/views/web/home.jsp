@@ -8,6 +8,10 @@
 <title>Trang chủ</title>
 </head>
 <body>
+<<<<<<< HEAD
 <h1>${model.fullName} </h1>
+=======
+<h1>test </h1>
+>>>>>>> d22dffe58e1848d2e58a8f2d24b000bf05bded6e
 </body>
 </html>
